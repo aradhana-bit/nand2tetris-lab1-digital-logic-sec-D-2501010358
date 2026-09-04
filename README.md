@@ -40,3 +40,25 @@ combinational logic circuits using Nand2Tetris HDL.
 ## Objective
 To understand how multiplexing and combinational logic circuits
 are designed and implemented using HDL and verified through simulation.
+
+
+# Session 3 — Arithmetic Logic: Half Adder and Full Adder
+
+## Overview
+
+This session focuses on the design and implementation of arithmetic circuits using Nand2Tetris HDL. The session introduces Half Adder and Full Adder circuits and demonstrates how binary addition is performed through sum and carry generation.
+
+## Topics Covered
+
+- Half Adder
+- Full Adder
+- Sum and Carry Generation
+- Boolean Expressions
+- Truth Tables
+- HDL Implementation
+- Carry Propagation
+- Hardware Simulation and Verification
+
+## Objective
+
+To understand how Half Adder and Full Adder circuits perform binary addition, implement them using Nand2Tetris HDL, trace carry propagation for sample inputs, and verify their functionality through hardware simulation.
